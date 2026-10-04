@@ -1,10 +1,11 @@
 # Hi, I'm Vanshika 👋
 
 ```text
-Curious mind        →   "How does this actually work?"
-New idea            →   Let's build it
-Something breaks   →   Let's figure out why
-One small change    →   Somehow, a whole new feature
+Just a collection of things
+I've learned,
+tried,
+built,
+and occasionally broken.
 ```
 
 🎓 **B.Tech Student | Software Development | Data & ML**
