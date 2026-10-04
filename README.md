@@ -9,9 +9,9 @@ One small change    →   Somehow, a whole new feature
 
 🎓 **B.Tech Student | Software Development | Data & ML**
 
+I'm interested in **software development, problem solving, databases, data, and machine learning** 
 I enjoy turning ideas into working projects and learning by actually building things.
 
-I'm interested in **software development, problem solving, databases, data, and machine learning** — I like learning how things work and trying them out myself.
 
 ### 💻 Currently exploring
 
